@@ -34,3 +34,7 @@ navbar:
   right:
     - icon: fa-reddit
       href: https://github.com/chadefa1/chadefa1.github.io
+output: 
+    html_document:
+        theme: cosmo
+        highlight: textmate
