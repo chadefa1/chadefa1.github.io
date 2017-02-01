@@ -1,27 +1,17 @@
-name: "my-website"
+name: "Chadefaux"
 output_dir: "."
-navbar:
+navbar:    
   title: ""
-#  type: inverse
+  type: inverse
   left:
-    - text: "Course Material"      
-      href: index.html
-    - text: "PO4700"      
+    - text: "Thomas Chadefaux"      
+      href: http://www.thomaschadefaux.com
+    - text: "PO4700: Contemporary IR"      
       href: PO4700.html
-    - text: "More"
-      icon: fa-gear
-      menu:
-        - text: "Heading 1"
-        - text: "Page A"
-          href: page_a.html
-        - text: "Page B"
-          href: page_b.html
-        - text: "---------"
-        - text: "Heading 2"
-        - text: "Page C"
-          href: page_c.html
-        - text: "Page D"
-          href: page_d.html
+    - text: "PO7001: Quants I"      
+      href: PO7001.html
+    - text: "PO7005: Quants II"  
+      href: PO7005.html      
   right:
-    - icon: fa-question fa-lg
-      href: https://example.com
+    - icon: fa-reddit
+      href: https://github.com/chadefa1/chadefa1.github.io

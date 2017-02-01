@@ -2,4 +2,16 @@
 title: "PO 4700: Contemporary International Relations"
 ---
 
-Hello, Website!
+#### Lecture 1: War in our Genes
+
+[Slides](PO4700/War_in_our_Genes_slides.html)
+
+[Handout](PO4700/War_in_our_Genes_handout.html)
+
+#### Lecture 2: Forecasting Conflict
+
+[Slides](PO4700/Forecasting_Conflict_slides.html)
+
+[Handout](PO4700/Forecasting_Conflict_handout.html)
+
+
