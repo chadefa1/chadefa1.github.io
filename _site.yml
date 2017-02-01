@@ -1,13 +1,12 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "Thomas Chadefaux: Course Material"
-  type: inverse
+  title: ""
+#  type: inverse
   left:
     - text: "Course Material"      
       href: index.html
-    - text: "PO4700"
-      icon: fa-info
+    - text: "PO4700"      
       href: PO4700.html
     - text: "More"
       icon: fa-gear
