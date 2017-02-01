@@ -7,7 +7,15 @@ navbar:
     - text: "Thomas Chadefaux"      
       href: http://www.thomaschadefaux.com
     - text: "PO4700: Contemporary IR"      
-      href: PO4700.html
+      menu:
+        - text: "Lectures and Handouts"        
+          href: PO4700_lectures.html
+        - text: "---------"
+        - text: "Forecasting Challenge"
+          href: PO4700_forecasting.html 
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO4700/PO4700_syllabus.pdf
     - text: "PO7001: Quants I"      
       href: PO7001.html
     - text: "PO7005: Quants II"  
