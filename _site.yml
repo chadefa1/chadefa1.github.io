@@ -17,8 +17,19 @@ navbar:
         - text: "Forecasting Challenge"
           href: https://docs.google.com/forms/d/e/1FAIpQLSfeq3e0QvCBG6wYMcdgn2KgoK72fHO2wFAtRQpbEKeCSDQG5Q/viewform?c=0&w=1          
     - text: "PO7001: Quants I"      
-      href: PO7001.html
-    - text: "PO7005: Quants II"  
+      menu:
+        - text: "Lectures and Handouts"        
+          href: PO7001/
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO7001/PO7001_Syllabus_Chadefaux.pdf
+    - text: "PO7005: Quants II"      
+      menu:
+        - text: "Lectures and Handouts"        
+          href: PO7005/
+        - text: "---------"
+        - text: "Syllabus"
+          href: PO7005/Syllabus_PO7005_Chadefaux.pdf
       href: PO7005.html      
   right:
     - icon: fa-reddit
