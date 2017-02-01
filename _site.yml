@@ -13,6 +13,7 @@ navbar:
         - text: "---------"
         - text: "Syllabus"
           href: PO4700/PO4700_syllabus.pdf
+        - text: "---------"
         - text: "Forecasting Challenge"
           href: https://docs.google.com/forms/d/e/1FAIpQLSfeq3e0QvCBG6wYMcdgn2KgoK72fHO2wFAtRQpbEKeCSDQG5Q/viewform?c=0&w=1          
     - text: "PO7001: Quants I"      
