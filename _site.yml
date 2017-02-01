@@ -11,9 +11,6 @@ navbar:
         - text: "Lectures and Handouts"        
           href: PO4700_lectures.html
         - text: "---------"
-        - text: "Forecasting Challenge"
-          href: PO4700_forecasting.html 
-        - text: "---------"
         - text: "Syllabus"
           href: PO4700/PO4700_syllabus.pdf
         - text: "Forecasting Challenge"

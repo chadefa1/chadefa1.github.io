@@ -1,5 +1,11 @@
 ---
-title: "PO 4700: Contemporary International Relations"
+title: "Course Material"
 ---
 
-Hello, Website!
+- PO 4700: Contemporary International Relations
+     - [Lectures](PO4700_lectures.html)
+     - [Syllabus](PO4700/PO4700_syllabus.pdf)
+     - [Forecasting challenge](https://docs.google.com/forms/d/e/1FAIpQLSfeq3e0QvCBG6wYMcdgn2KgoK72fHO2wFAtRQpbEKeCSDQG5Q/viewform?c=0&w=1)
+- PO 7001: Quantitative Methods I
+     
+- PO 7005: Quantitative Methods II
