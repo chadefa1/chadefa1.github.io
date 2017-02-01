@@ -19,14 +19,14 @@ navbar:
     - text: "PO7001: Quants I"      
       menu:
         - text: "Lectures and Handouts"        
-          href: PO7001/
+          href: https://www.dropbox.com/sh/ln7sv59w0otclgn/AAAxgmKIbh908xJRGF5ZVO5Va?dl=0
         - text: "---------"
         - text: "Syllabus"
           href: PO7001/PO7001_Syllabus_Chadefaux.pdf
     - text: "PO7005: Quants II"      
       menu:
         - text: "Lectures and Handouts"        
-          href: PO7005/
+          href: https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0
         - text: "---------"
         - text: "Syllabus"
           href: PO7005/Syllabus_PO7005_Chadefaux.pdf
