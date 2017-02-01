@@ -4,12 +4,11 @@ navbar:
   title: "Thomas Chadefaux: Course Material"
   type: inverse
   left:
-    - text: "PO4700"
-      icon: fa-home
+    - text: "Course Material"      
       href: index.html
-    - text: "PO"
+    - text: "PO4700"
       icon: fa-info
-      href: about.html
+      href: PO4700.html
     - text: "More"
       icon: fa-gear
       menu:
