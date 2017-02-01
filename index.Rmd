@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "PO 4700: Contemporary International Relations"
 ---
 
 Hello, Website!
