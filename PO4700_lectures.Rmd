@@ -25,6 +25,11 @@ subtitle: "Lecture Material"
 
 [Slides](PO4700/bargainingAndConflict_slides.html)
 
+### Lecture 4: Domestic Politics and Conflict
+
+[Handout](PO4700/DomesticPolitics_handout.html)
+
+[Slides](PO4700/DomesticPolitics_slides.html)
 
 
 
