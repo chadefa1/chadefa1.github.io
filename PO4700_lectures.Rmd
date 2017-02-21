@@ -32,4 +32,10 @@ subtitle: "Lecture Material"
 [Slides](PO4700/DomesticPolitics_slides.html)
 
 
+### Lecture 5: Economic Interdependence and Conflict
+
+[Handout](PO4700/DomesticPolitics_handout.html)
+
+[Slides](PO4700/EconInterdependence_slides.html)
+
 
