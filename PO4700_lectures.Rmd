@@ -39,3 +39,8 @@ subtitle: "Lecture Material"
 [Slides](PO4700/EconInterdependence_slides.html)
 
 
+### Lecture 6: Conflict Outcomes
+
+[Handout]()
+
+[Slides](PO4700/conflictOutcomes.html)
