@@ -44,3 +44,9 @@ subtitle: "Lecture Material"
 [Handout]()
 
 [Slides](PO4700/conflictOutcomes.html)
+
+### Lecture 7: Terrorism
+
+[Handout]()
+
+[Slides](PO4700/terrorism_slides.html)
