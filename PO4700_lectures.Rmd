@@ -50,3 +50,9 @@ subtitle: "Lecture Material"
 [Handout]()
 
 [Slides](PO4700/terrorism_slides.html)
+
+### Lecture 8: Civil Wars
+
+[Handout]()
+
+[Slides](PO4700/civilWars_slides.html)
