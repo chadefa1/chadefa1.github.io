@@ -45,14 +45,14 @@ subtitle: "Lecture Material"
 
 [Slides](PO4700/conflictOutcomes.html)
 
-### Lecture 7: Terrorism
+### Lecture 8: Terrorism
 
 [Handout]()
 
 [Slides](PO4700/terrorism_slides.html)
 
-### Lecture 8: Civil Wars
+### Lectures 9 & 10: Civil Wars
 
 [Handout]()
 
-[Slides](PO4700/civilWars_slides.html)
+[Slides](PO4700/civilWarsSlides.html)
