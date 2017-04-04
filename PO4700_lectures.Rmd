@@ -56,3 +56,8 @@ subtitle: "Lecture Material"
 [Handout]()
 
 [Slides](PO4700/civilWarsSlides.html)
+
+
+### Lectures 12: Forecasting challenge and review
+
+[Slides](PO4700/review.html)
