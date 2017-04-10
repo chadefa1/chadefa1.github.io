@@ -56,9 +56,9 @@ subtitle: "Lecture Material"
 
 ### Lectures 9 & 10: Civil Wars
 
-[Handout]()
+[Handout](PO4700/civilWars_handout.html)
 
-[Slides](PO4700/civilWarsSlides.html)
+[Slides](PO4700/civilWars_slides.html)
 
 
 ### Lecture 12: Forecasting challenge and review
