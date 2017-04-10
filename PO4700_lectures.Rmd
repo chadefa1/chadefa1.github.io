@@ -45,6 +45,9 @@ subtitle: "Lecture Material"
 
 [Slides](PO4700/conflictOutcomes.html)
 
+### *Week 7: Reading Week*
+
+
 ### Lecture 8: Terrorism
 
 [Handout](PO4700/terrorism_handout.html)
@@ -58,6 +61,6 @@ subtitle: "Lecture Material"
 [Slides](PO4700/civilWarsSlides.html)
 
 
-### Lectures 12: Forecasting challenge and review
+### Lecture 12: Forecasting challenge and review
 
 [Slides](PO4700/review.html)
