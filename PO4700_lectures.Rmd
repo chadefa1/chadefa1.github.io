@@ -34,7 +34,7 @@ subtitle: "Lecture Material"
 
 ### Lecture 5: Economic Interdependence and Conflict
 
-[Handout]()
+[Handout](PO4700/EconInterdependence_handout.html)
 
 [Slides](PO4700/EconInterdependence_slides.html)
 
