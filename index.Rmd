@@ -2,6 +2,10 @@
 title: "Course Material"
 ---
 
+- Brown in Dublin: Contemporary Global Politics
+     - [Lectures](brownInDublin.html)
+     
+
 - PO 4700: Contemporary International Relations
      - [Lectures](PO4700_lectures.html)
      - [Syllabus](PO4700/PO4700_syllabus.pdf)
