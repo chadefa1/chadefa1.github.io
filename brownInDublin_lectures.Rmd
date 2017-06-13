@@ -14,9 +14,9 @@ subtitle: "Lecture Material"
 
 ### Lecture 2: Forecasting Conflict
 
-[Handout](BrownInDublin/Forecasting_Conflict_handout.html)
+[Handout](BrownInDublin/ForecastingConflict_handout.html)
 
-[Slides](BrownInDublin/Forecasting_Conflict_slides.html)
+[Slides](BrownInDublin/ForecastingConflict_slides.html)
 
 
 ### Lecture 3: Bargaining and Conflict
