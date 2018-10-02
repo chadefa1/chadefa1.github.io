@@ -6,61 +6,41 @@ subtitle: "Lecture Material"
 <br>
 <br>
 
-### Lecture 1: War in our Genes
+### Methods
+[Methods 01](PO3110/MethodsMT01.pdf)
 
-[Handout](PO4700/War_in_our_Genes_handout.html)
+[Methods 02](PO3110/MethodsMT02.pdf)
 
-[Slides](PO4700/War_in_our_Genes_slides.html)
+[Methods 03](PO3110/MethodsMT03.pdf)
 
-### Lecture 2: Forecasting Conflict
+[Methods 04](PO3110/MethodsMT04.pdf)
 
-[Handout](PO4700/Forecasting_Conflict_handout.html)
+[Methods 05](PO3110/MethodsMT05.pdf)
 
-[Slides](PO4700/Forecasting_Conflict_slides.html)
+[Methods 06](PO3110/MethodsMT06.pdf)
 
+[Methods 07](PO3110/MethodsMT07.pdf)
 
-### Lecture 3: Bargaining and Conflict
-
-[Handout](PO4700/bargainingAndConflict_handout.html)
-
-[Slides](PO4700/bargainingAndConflict_slides.html)
-
-### Lecture 4: Domestic Politics and Conflict
-
-[Handout](PO4700/DomesticPolitics_handout.html)
-
-[Slides](PO4700/DomesticPolitics_slides.html)
+[Methods 08](PO3110/MethodsMT08.pdf)
 
 
-### Lecture 5: Economic Interdependence and Conflict
+### Statistics
+[Statistics 01](PO3110/StatisticsMT01.pdf)
 
-[Handout](PO4700/EconInterdependence_handout.html)
+[Statistics 02](PO3110/StatisticsMT02.pdf)
 
-[Slides](PO4700/EconInterdependence_slides.html)
+[Statistics 03](PO3110/StatisticsMT03.pdf)
 
+[Statistics 04](PO3110/StatisticsMT04.pdf)
 
-### Lecture 6: Conflict Outcomes
+[Statistics 05](PO3110/StatisticsMT05.pdf)
 
-[Handout](PO4700/conflictOutcomes_handout.html)
+[Statistics 06](PO3110/StatisticsMT06.pdf)
 
-[Slides](PO4700/conflictOutcomes.html)
+[Statistics 07](PO3110/StatisticsMT07.pdf)
 
-### *Week 7: Reading Week*
+[Statistics 08](PO3110/StatisticsMT08.pdf)
 
+[Statistics 09](PO3110/StatisticsMT09.pdf)
 
-### Lecture 8: Terrorism
-
-[Handout](PO4700/terrorism_handout.html)
-
-[Slides](PO4700/terrorism_slides.html)
-
-### Lectures 9 & 10: Civil Wars
-
-[Handout](PO4700/civilWars_handout.html)
-
-[Slides](PO4700/civilWars_slides.html)
-
-
-### Lecture 12: Forecasting challenge and review
-
-[Slides](PO4700/review.html)
+[Statistics 10](PO3110/StatisticsMT10.pdf)
