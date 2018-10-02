@@ -6,6 +6,8 @@ navbar:
   left:
     - text: "Thomas Chadefaux"      
       href: http://www.thomaschadefaux.com
+    - text: "PO3110: Research Methods in Political Science A"      
+      href: PO3110_lectures.html
     - text: "PO4700: Contemporary IR"      
       menu:
         - text: "Lectures and Handouts"        
