@@ -19,8 +19,8 @@
 
 - [Assignment 1](PO3110/Assignments/MT_HW1.pdf)
 
-     [Data for assignment 1](Dataset_HE_MT03.sav)
+     [Data for assignment 1](PO3110/Assignments/Dataset_HE_MT03.sav)
 
 - [Assignment 2](PO3110/Assignments/MT_HW2.pdf)
 
-     [Data for assignment 2](Dataset_MT_HW2.sav)
+     [Data for assignment 2](PO3110/Assignments/Dataset_MT_HW2.sav)
