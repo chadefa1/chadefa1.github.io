@@ -23,4 +23,4 @@
 
 - [Assignment 2](PO3110/Assignments/MT_HW2.pdf)
 
-     [Data for assignment 1](Dataset MT_HW2.sav)
+     [Data for assignment 2](Dataset MT_HW2.sav)
