@@ -28,4 +28,4 @@
 
 - [Assignment 3](PO3110/Assignments/MT_HW3.pdf)
 
-     [Data for assignment 2](PO3110/Assignments/MT08_Data_INES.sav)
+     [Data for assignment 3](PO3110/Assignments/MT08_Data_INES.sav)
