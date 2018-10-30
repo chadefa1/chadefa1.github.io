@@ -383,9 +383,8 @@ Presenting data: tables and charts
      Readings: Manheim et al., Chapter 17
      
 - [Statistics Lecture (18/10)](PO3110/StatisticsMT06.pdf):
-Bivariate statistics: correlation
+Catch-up on late lectures
      
-     Readings: Field, Chapter 7
 
 
 - [Tutorial:](https://andrsalvi.github.io/research-methods/) 
@@ -402,9 +401,10 @@ Bivariate statistics: correlation
 
 **Week 8** 
 
-- [Statistics Lecture (no "methods" this week) (30/10)](PO3110/StatisticsMT08a.pdf): TBD	
-
-     Readings: TBD
+- [Statistics Lecture (30/10)](PO3110/StatisticsMT06.pdf):
+Bivariate statistics: correlation
+     
+     Readings: Field, Chapter 7
      
 - [Statistics Lecture (01/11)](PO3110/StatisticsMT08b.pdf):
 Bivariate statistics: t-tests

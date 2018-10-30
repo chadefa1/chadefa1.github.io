@@ -34,7 +34,7 @@ Presenting data: tables and charts
 - [Statistics Lecture (no "methods" this week) (16/10)](PO3110/MethodsMT06.pdf): Bivariate statistics: cross tables and chi-square	
 - [Statistics Lecture (18/10)](PO3110/StatisticsMT06.pdf):
 Bivariate statistics: correlation
-- [Statistics Lecture (no "methods" this week) (30/10)](PO3110/StatisticsMT08a.pdf): TBD	
+- [Statistics Lecture (no "methods" this week) (30/10)](PO3110/StatisticsMT08a.pdf): Correlation	
 - [Statistics Lecture (01/11)](PO3110/StatisticsMT08b.pdf):
 Bivariate statistics: t-tests
 - Tuesday (6/11): Presentations 
