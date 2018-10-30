@@ -14,7 +14,7 @@
 
 <br>
 
-## \center Assignment
+## \center Assignments
 
 
 - [Assignment 1](PO3110/Assignments/MT_HW1.pdf)
