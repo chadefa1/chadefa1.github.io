@@ -184,7 +184,7 @@ The final grade consists of the following parts:
 -   60$\%$ of the mark is based on an end-of-term exam, which covers both research
     methods and statistics. The exam will consist of short descriptions
     of relevant concepts, short essay questions and the interpretation
-    of a statistical model. Details on these papers and what we expect can be found [here](PO3110/Assignments/PO3110PaperGuidelines.pdf)
+    of a statistical model.
 
 -   1 paper counting 16$\%$ towards your overall mark. In this paper, you will
     set up a (small) research project (based on secondary data) and
@@ -195,6 +195,10 @@ The final grade consists of the following parts:
     for submitting the paper on Turnitin is Friday, November 30,
     2018, 23:59. Only one of the co-authors should submit the paper, but
     be sure to indicate the other co-authors on the title page.
+          
+          - Details on the papers and what we expect can be found [here](PO3110/Assignments/PO3110PaperGuidelines.pdf)
+          - Details on the presentations and what we expect can be found [here](PO3110/Assignments/PO3110PresentationGuidelines.pdf)
+
 
 -   Homework exercises are worth 20$\%$ of your overall mark. In total, students will
     complete 4 of these exercises. ***These homework exercises must be
