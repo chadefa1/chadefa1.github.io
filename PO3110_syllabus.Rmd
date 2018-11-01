@@ -195,9 +195,8 @@ The final grade consists of the following parts:
     for submitting the paper on Turnitin is Friday, November 30,
     2018, 23:59. Only one of the co-authors should submit the paper, but
     be sure to indicate the other co-authors on the title page.
-          
-          - Details on the papers and what we expect can be found [here](PO3110/Assignments/PO3110PaperGuidelines.pdf)
-          - Details on the presentations and what we expect can be found [here](PO3110/Assignments/PO3110PresentationGuidelines.pdf)
+     Details on the papers and what we expect can be found [here](PO3110/Assignments/PO3110PaperGuidelines.pdf)
+     Details on the presentations and what we expect can be found [here](PO3110/Assignments/PO3110PresentationGuidelines.pdf)
 
 
 -   Homework exercises are worth 20$\%$ of your overall mark. In total, students will
