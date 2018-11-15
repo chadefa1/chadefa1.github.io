@@ -448,7 +448,6 @@ Bivariate statistics: t-tests
 
 **Week 11** 
 
-*NOTE: HOMEWORK 4 DUE (submit on Turnitin)* 
 
 - [Methods Lecture (20/10)](PO3110/MethodsMT11a.pdf): 
 Experimental research
@@ -473,6 +472,8 @@ From experimental to quasi-experimental research
 
 **Week 12** 
 
+*NOTE: HOMEWORK 4 DUE (submit on Turnitin)* 
+
 - [Methods Lecture (27/10)](PO3110/MethodsMT12.pdf): 
 Formal analysis and rational choice
 
@@ -484,5 +485,8 @@ Formal analysis and rational choice
 
 - [Tutorial:](https://andrsalvi.github.io/research-methods/) 
      - Quasi-experiments
+
+
+
 
 **FRIDAY  30/11, 23:59: Final Paper due**
