@@ -181,7 +181,7 @@ Services how to obtain your **free copy**:
 
 The final grade consists of the following parts:
 
--   60$\%$ of the mark is based on an end-of-term exam, which covers both research
+-   60$\%$ of the mark is based on an end-of-term exam, which covers both research. A sample exam can be found [here](PO3110/PO3110_MT_exam_SAMPLE.pdf)
     methods and statistics. The exam will consist of short descriptions
     of relevant concepts, short essay questions and the interpretation
     of a statistical model.
