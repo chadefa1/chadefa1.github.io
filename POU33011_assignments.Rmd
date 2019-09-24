@@ -17,20 +17,20 @@
 ## \center Assignments
 
 
-- [Assignment 1](PO3110/Assignments/MT_HW1.pdf)
+- [Assignment 1](POU33011/Assignments/MT_HW1.pdf)
 
      [Data for assignment 1](PO3110/Assignments/Dataset_HE_MT03.sav)
 
-- [Assignment 2](PO3110/Assignments/MT_HW2.pdf)
+- [Assignment 2](POU33011/Assignments/MT_HW2.pdf)
 
-     [Data for assignment 2](PO3110/Assignments/Dataset_MT_HW2.sav)
-
-
-- [Assignment 3](PO3110/Assignments/MT_HW3.pdf)
-
-     [Data for assignment 3](PO3110/Assignments/MT08_Data_INES.sav)
+     [Data for assignment 2](POU33011/Assignments/Dataset_MT_HW2.sav)
 
 
-- [Assignment 4](PO3110/Assignments/MT_HW4.pdf)
+- [Assignment 3](POU33011/Assignments/MT_HW3.pdf)
 
-     [Data for assignment 4](PO3110/Assignments/Norris.sav)
+     [Data for assignment 3](POU33011/Assignments/MT08_Data_INES.sav)
+
+
+- [Assignment 4](POU33011/Assignments/MT_HW4.pdf)
+
+     [Data for assignment 4](POU33011/Assignments/Norris.sav)
