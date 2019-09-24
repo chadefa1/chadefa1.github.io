@@ -74,9 +74,9 @@ On successful completion of this module students should be able to:
 
 We will have per week:
 
-Tuesdays: 14-15 (2 College Green, room 3)
+Tuesdays: 14-15 (M20 in the Museum Building)
 
-Thursdays: 17-18 (AP2.03)
+Wednesdays: 14-15 (Regent House)
 
 Typically, one of the lectures will be about research methods in
 general, while the other will focus on statistical methods. The lectures
@@ -107,11 +107,6 @@ assigned to a tutorial group automatically. Once you are assigned, you
 can only attend that group’s meetings unless you receive permission from
 the tutor to switch groups (either permanently or for a single session).
 
-Tuesdays: 12-1pm (Goldsmith 1A) (Group 1)
-
-OR
-
-Tuesdays: 5-6pm (College Green Rm 4) (Group 2)
 
 <br>
 **Contacting us**
