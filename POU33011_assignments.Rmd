@@ -19,7 +19,7 @@
 
 - [Assignment 1](POU33011/Assignments/MT_HW1.pdf)
 
-     [Data for assignment 1](PO3110/Assignments/Dataset_HE_MT03.sav)
+     [Data for assignment 1](POU33011/Assignments/Dataset_HE_MT03.sav)
 
 - [Assignment 2](POU33011/Assignments/MT_HW2.pdf)
 
