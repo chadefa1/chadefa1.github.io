@@ -178,7 +178,7 @@ The final grade consists of the following parts:
 
 -   60$\%$ of the mark is based on an end-of-term exam, which covers both research methods and statistics. The exam will consist of short descriptions
     of relevant concepts, short essay questions and the interpretation
-    of a statistical model. A sample exam can be found [here](PO3110/PO3110_MT_exam_SAMPLE.pdf).
+    of a statistical model. A sample exam can be found [here](POU33011/POU33011_MT_exam_SAMPLE.pdf).
 
 -   1 paper counting 16$\%$ towards your overall mark. In this paper, you will
     set up a (small) research project (based on secondary data) and
@@ -186,18 +186,18 @@ The final grade consists of the following parts:
     will be done in groups submitting joint papers. We will assign you
     to a random partner for this project. Further information on the
     paper assignment will be made available via Blackboard. The deadline
-    for submitting the paper on Turnitin is Friday, November 30,
-    2018, 23:59. Only one of the co-authors should submit the paper, but
+    for submitting the paper on Turnitin is Friday, November 29,
+    23:59. Only one of the co-authors should submit the paper, but
     be sure to indicate the other co-authors on the title page.
      
-     Details on the papers and what we expect can be found [here](PO3110/Assignments/PO3110PaperGuidelines.pdf)
+     Details on the papers and what we expect can be found [here](POU33011/Assignments/POU33011PaperGuidelines.pdf)
      
-     Details on the presentations and what we expect can be found [here](PO3110/Assignments/PO3110PresentationGuidelines.pdf)
+     Details on the presentations and what we expect can be found [here](POU33011/Assignments/POU33011PresentationGuidelines.pdf)
 
 
 -   Homework exercises are worth 20$\%$ of your overall mark. In total, students will
     complete 4 of these exercises. ***These homework exercises must be
-    submitted via Turnitin.***
+    submitted on Turnitin (via Blackboard).***
 
 -  Tutorial participation  is worth 4$\%$ of your overall mark. Students should present
     themselves at their tutorials and be prepared to discuss their work
@@ -235,12 +235,9 @@ that **will** have serious implications.
 <br>
 **Paper Submission**
 
-All coursework must be submitted via
-[turnitin.com](http://www.turnitin.com/).
+All coursework must be submitted on Turnitin via
+[Blackboard](mymodule.tcd.ie).
 
-*Class ID: 19060845*
-
-*Password: po3110*
 
 All coursework deadlines are strictly adhered to. Extensions on
 deadlines will only be granted in exceptional circumstances; relevant
@@ -267,11 +264,11 @@ not sufficient—*you will need to *interpret* the results and procedures.
 
 **Week 1**
 
-- [Methods Lecture (11/09)](PO3110/MethodsMT01.pdf): Why do I need to learn about research methods?
+- [Methods Lecture](POU33011/MethodsMT01.pdf): Why do I need to learn about research methods?
     
     Readings: Manheim et al., Chapter 1
 
-- [Statistics Lecture (13/09)](PO3110/StatisticsMT01.pdf): Why statistics? The problem of sampling
+- [Statistics Lecture](POU33011/StatisticsMT01.pdf): Why statistics? The problem of sampling
 
     Readings: Field, Chapter 1 (1.1 to 1.5 including)
 
@@ -280,7 +277,7 @@ not sufficient—*you will need to *interpret* the results and procedures.
 
 **Week 2**
 
-- [Methods Lecture (18/09)](PO3110/MethodsMT02.pdf): Theories & concepts	
+- [Methods Lecture](POU33011/MethodsMT02.pdf): Theories & concepts	
 
      Readings: 
      
@@ -289,7 +286,7 @@ not sufficient—*you will need to *interpret* the results and procedures.
      - Gerring, J. (1999). What Makes a Concept Good? A Criterial Framework for Understanding Concept Formation in the Social Sciences. Polity, 31(3), 357:393.
 
 
-- [Statistics Lecture (20/09)](PO3110/StatisticsMT02.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT02.pdf):
 Univariate statistics: Measurement levels and measures of central tendency
      
      Readings: 
@@ -301,12 +298,12 @@ Univariate statistics: Measurement levels and measures of central tendency
 
 **Week 3**
 
-- [Methods Lecture (25/09)](PO3110/MethodsMT03.pdf): Variables, hypotheses & measurement	
+- [Methods Lecture](POU33011/MethodsMT03.pdf): Variables, hypotheses & measurement	
 
      Readings: Manheim et al., Chapter 4
      
 
-- [Statistics Lecture (27/09)](PO3110/StatisticsMT03.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT03.pdf):
 Univariate statistics: Measures of dispersion and standard errors
      
      Readings: 
@@ -329,11 +326,11 @@ Univariate statistics: Measures of dispersion and standard errors
 
 *NOTE: HOMEWORK 1 DUE (submit on Turnitin)* 
 
-- [Methods Lecture (02/10)](PO3110/MethodsMT04.pdf): Measurement error and the research plan	
+- [Methods Lecture](POU33011/MethodsMT04.pdf): Measurement error and the research plan	
 
      Readings: Manheim et al., Chapter 5
      
-- [Statistics Lecture (04/10)](PO3110/StatisticsMT04.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT04.pdf):
 Univariate statistics: confidence intervals & significance testing
      
      Readings: Field, Chapter 2 (section 2.5.2  to 2.13)
@@ -349,13 +346,13 @@ Univariate statistics: confidence intervals & significance testing
 
 **Week 5** 
 
-- [Methods Lecture (09/10)](PO3110/MethodsMT05.pdf): Qualitative vs. quantitative research?	
+- [Methods Lecture](POU33011/MethodsMT05.pdf): Qualitative vs. quantitative research?	
 
      Readings: 
      - King, Gary, R.O. Keohane and S. Verba (1994), Designing Social Inquiry, Princeton: Princeton University Press, Chapter 1 and 2
      - Mahoney, J., & Goertz, G. (2006). A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research. Political Analysis, 14(3), 227–249. doi:10.1093/pan/mpj017
      
-- [Statistics Lecture (11/02)](PO3110/StatisticsMT05.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT05.pdf):
 Presenting data: tables and charts
      
      Readings: 
@@ -377,11 +374,11 @@ Presenting data: tables and charts
 *NOTE: HOMEWORK 2 DUE (submit on Turnitin)* 
 
 
-- [Statistics Lecture (no "methods" this week) (16/10)](PO3110/MethodsMT06.pdf): Bivariate statistics: cross tables and chi-square	
+- [Statistics Lecture (no "methods" this week)](POU33011/MethodsMT06.pdf): Bivariate statistics: cross tables and chi-square	
 
      Readings: Manheim et al., Chapter 17
      
-- [Statistics Lecture (18/10)](PO3110/StatisticsMT06.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT06.pdf):
 Catch-up on late lectures
      
 
@@ -400,12 +397,12 @@ Catch-up on late lectures
 
 **Week 8** 
 
-- [Statistics Lecture (30/10)](PO3110/StatisticsMT06.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT06.pdf):
 Bivariate statistics: correlation
      
      Readings: Field, Chapter 7
      
-- [Statistics Lecture (01/11)](PO3110/StatisticsMT08b.pdf):
+- [Statistics Lecture](POU33011/StatisticsMT08b.pdf):
 Bivariate statistics: t-tests
      
      Readings: Field, Chapter 9
@@ -421,9 +418,9 @@ Bivariate statistics: t-tests
 
 *NOTE: HOMEWORK 3 DUE (submit on Turnitin)* 
 
-- Tuesday: Presentations (6/11)
+- Tuesday: Presentations 
 
-- Thursday: Presentations (8/11)
+- Wednesday: Presentations
 
 - [Tutorial:](https://andrsalvi.github.io/research-methods/) 
      - Chi-square
@@ -432,9 +429,9 @@ Bivariate statistics: t-tests
 
 **Week 10** 
 
-- Tuesday: Presentations (13/11)
+- Tuesday: Presentations
 
-- Thursday: Presentations (15/11)
+- Wednesday: Presentations
 
 - [Tutorial:](https://andrsalvi.github.io/research-methods/) 
      - Review
@@ -443,7 +440,7 @@ Bivariate statistics: t-tests
 **Week 11** 
 
 
-- [Methods Lecture (20/10)](PO3110/MethodsMT11a.pdf): 
+- [Methods Lecture](POU33011/MethodsMT11a.pdf): 
 Experimental research
 
      Readings: 
@@ -451,7 +448,7 @@ Experimental research
      - Mintz, A., Redd, S. B., & Vedlitz, A. (2006). Can We Generalize from Student Experiments to the Real World in Political Science, Military Affairs, and International Relations? Journal of Conflict Resolution, 50(5), 757–776. doi:10.1177/0022002706291052
 
      
-- [Methods Lecture (no statistics this week) (22/11)](PO3110/MethodsMT11b.pdf):
+- [Methods Lecture (no statistics this week)](POU33011/MethodsMT11b.pdf):
 From experimental to quasi-experimental research
      
      Readings: 
@@ -468,13 +465,13 @@ From experimental to quasi-experimental research
 
 *NOTE: HOMEWORK 4 DUE (submit on Turnitin)* 
 
-- [Methods Lecture (27/10)](PO3110/MethodsMT12.pdf): 
+- [Methods Lecture](POU33011/MethodsMT12.pdf): 
 Formal analysis and rational choice
 
      Readings:  Osborne, M. J. (2003). An Introduction to Game Theory. Oxford: Oxford University Press. Chapter 1 & 2 available from http://www.economics.utoronto.ca/osborne/igt/intro.pdf and http://www.economics.utoronto.ca/osborne/igt/nash.pdf
 
      
-- Thursday (29/11)Q&A, recap
+- Wednesday: Q&A, recap
 
 
 - [Tutorial:](https://andrsalvi.github.io/research-methods/) 
@@ -483,4 +480,4 @@ Formal analysis and rational choice
 
 
 
-**FRIDAY  30/11, 23:59: Final Paper due**
+**FRIDAY  29/11, 23:59: Final Paper due**
