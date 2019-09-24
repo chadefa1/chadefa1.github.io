@@ -6,17 +6,17 @@ navbar:
   left:
     - text: "Thomas Chadefaux"      
       href: http://www.thomaschadefaux.com
-    - text: "PO3110: Research Methods A"      
-      href: PO3110_lectures.html
+    - text: "POU33011: Research Methods A"      
+      href: POU33011_lectures.html
       menu:
         - text: "Lectures"        
-          href: PO3110_lectures.html
+          href: POU33011_lectures.html
         - text: "---------"
         - text: "Syllabus"
-          href: PO3110_syllabus.html
+          href: POU33011_syllabus.html
         - text: "---------"
         - text: "Datasets"
-          href: PO3110_syllabus.html
+          href: POU33011_syllabus.html
         - text: "---------"
         - text: "Tutorials"  
           href: https://andrsalvi.github.io/research-methods/
