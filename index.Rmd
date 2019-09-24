@@ -3,10 +3,10 @@ title: "Course Material"
 ---
 
 
-- PO3110: Research Methods for Political Science A
-     - [Syllabus](PO3110_syllabus.html)
-     - [Lectures](PO3110_lectures.html)
-     - [Assignments](PO3110_assignments.html)
+- POU33011: Research Methods for Political Science A
+     - [Syllabus](POU33011_syllabus.html)
+     - [Lectures](POU33011_lectures.html)
+     - [Assignments](POU33011_assignments.html)
      - [Tutorial](https://andrsalvi.github.io/research-methods/)
      
 
