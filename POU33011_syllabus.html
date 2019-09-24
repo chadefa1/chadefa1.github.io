@@ -7,11 +7,12 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>POU33011_syllabus.utf8.md</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,9 +23,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
-<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
-<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -72,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -88,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,6 +95,9 @@ img {
 }
 button.code-folding-btn:focus {
   outline: none;
+}
+summary {
+  display: list-item;
 }
 </style>
 
@@ -113,7 +113,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -133,6 +132,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -154,19 +190,73 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -288,8 +378,8 @@ $(document).ready(function () {
 <h3>Trinity College Dublin, The University of Dublin</h3>
 <p><br></p>
 </div>
-<div id="po3110-research-methods-for-political-science-a-2018-2019" class="section level2">
-<h2><strong>PO3110: Research Methods for Political Science A, 2018-2019</strong></h2>
+<div id="pou33011-research-methods-for-political-science-a" class="section level2">
+<h2><strong>POU33011: Research Methods for Political Science A</strong></h2>
 <p><br></p>
 </div>
 <div id="syllabus" class="section level2">
@@ -297,12 +387,12 @@ $(document).ready(function () {
 <p><br></p>
 <p><strong>Lecturer</strong></p>
 <p>Thomas Chadefaux</p>
-<p><a href="mailto:Thomas.Chadefaux@tcd.ie">Thomas.Chadefaux@tcd.ie</a></p>
+<p><a href="mailto:Thomas.Chadefaux@tcd.ie" class="email">Thomas.Chadefaux@tcd.ie</a></p>
 <p>Room: 5.05 (College Green)</p>
-<p>Office hours: Wed 9:30-11:30 AM</p>
+<p>Office hours: By Appointment</p>
 <p><strong>Tutor</strong></p>
 <p>Andrea Salvi</p>
-<p><a href="mailto:salvia@tcd.ie">salvia@tcd.ie</a></p>
+<p><a href="mailto:salvia@tcd.ie" class="email">salvia@tcd.ie</a></p>
 <p><br></p>
 <p><strong>Module Description and Objectives</strong></p>
 <p>This module explores a variety of both qualitative and quantitative social science research to develop the skills for explaining causal mechanism in political phenomena. Especially, the class focuses on the logic of scientific inference, research design and measurement. This module also explores the uses and abuses of statistical reasoning in social and political studies. Students learn the basic rules of data analysis and the logic of statistical inference. The class covers various topics such as survey methodology, content analysis, (quasi) experiments, and policy analysis by doing such work themselves.</p>
@@ -344,7 +434,7 @@ $(document).ready(function () {
 <p><br> <strong>Grading</strong></p>
 <p>The final grade consists of the following parts:</p>
 <ul>
-<li><p>60<span class="math inline">\(\%\)</span> of the mark is based on an end-of-term exam, which covers both research methods and statistics. The exam will consist of short descriptions of relevant concepts, short essay questions and the interpretation of a statistical model. A sample exam can be found <a href="PO3110/PO3110_MT_exam_SAMPLE.pdf">here</a></p></li>
+<li><p>60<span class="math inline">\(\%\)</span> of the mark is based on an end-of-term exam, which covers both research methods and statistics. The exam will consist of short descriptions of relevant concepts, short essay questions and the interpretation of a statistical model. A sample exam can be found <a href="PO3110/PO3110_MT_exam_SAMPLE.pdf">here</a>.</p></li>
 <li><p>1 paper counting 16<span class="math inline">\(\%\)</span> towards your overall mark. In this paper, you will set up a (small) research project (based on secondary data) and execute it (including a limited statistical analysis). This work will be done in groups submitting joint papers. We will assign you to a random partner for this project. Further information on the paper assignment will be made available via Blackboard. The deadline for submitting the paper on Turnitin is Friday, November 30, 2018, 23:59. Only one of the co-authors should submit the paper, but be sure to indicate the other co-authors on the title page.</p>
 <p>Details on the papers and what we expect can be found <a href="PO3110/Assignments/PO3110PaperGuidelines.pdf">here</a></p>
 <p>Details on the presentations and what we expect can be found <a href="PO3110/Assignments/PO3110PresentationGuidelines.pdf">here</a></p></li>
@@ -540,6 +630,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
