@@ -236,7 +236,7 @@ that **will** have serious implications.
 **Paper Submission**
 
 All coursework must be submitted on Turnitin via
-[Blackboard](mymodule.tcd.ie).
+mymodule.tcd.ie.
 
 
 All coursework deadlines are strictly adhered to. Extensions on
