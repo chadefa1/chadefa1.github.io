@@ -1639,6 +1639,7 @@ summary {
 
 <div id="general-review-of-logits" class="section level1">
 <h1><span class="header-section-number">1</span> General review of Logits</h1>
+<p>One of our key goal in this class will be to classify observations into groups–typically event/no event. I.e., we are interested in converting existing information (variables) into a binary classification. There are a number of ways of doing this, but an important one is the logit.</p>
 <div id="why-logits" class="section level2">
 <h2><span class="header-section-number">1.1</span> Why logits?</h2>
 <p>Suppose <span class="math inline">\(y_i\)</span> denotes whether a country goes to war or not. I.e., <span class="math inline">\(y_i=0\)</span> if it does not enter the war, and <span class="math inline">\(y_i=1\)</span> if it does. Suppose that we are interested in the probability that a country goes to war, i.e., <span class="math inline">\(P(y_i=1)\)</span>. We think the level of trade dependence of that country might explain the decision to go to war. So we estimate the following model: <span class="math display">\[y_i = \beta_0 + \beta_1 trade_i + \varepsilon_i \]</span></p>
@@ -1670,9 +1671,7 @@ p(Y_i=1 | X_i) = f(Z)= \frac{1}{1+e^{-Z}} =  \frac{1}{1+e^{-(X\beta)}}\label{eqn
 </div>
 <div id="interpretation-of-logistic-coefficients" class="section level2">
 <h2><span class="header-section-number">1.3</span> Interpretation of logistic coefficients</h2>
-VERY IMPORTANT: you can no longer interpret <span class="math inline">\(\beta_k\)</span> as the marginal effect of variable <span class="math inline">\(x_k\)</span> on <span class="math inline">\(y\)</span>!
-
-<p>One thing you can do is interpret the coefficient in terms of changes in log odds. <span class="math inline">\(\beta\)</span> is the change in  when <span class="math inline">\(x\)</span> increases by 1. Suppose for example that X is a binary variable `dog owner/not dog owner’. Then going from having no dog to having a dog changes the log-odds of Y by <span class="math inline">\(\beta\)</span>. That means that the odds of Y change by <span class="math inline">\(e^\beta\)</span>. So <span class="math inline">\(e^{\beta^0}\)</span> are the odds of Y for a non-dog-owner, and <span class="math inline">\(e^{\beta_0 + \beta_1}\)</span> are the odds for a dog owner.</p>
+<p>VERY IMPORTANT: you can no longer interpret <span class="math inline">\(\beta_k\)</span> as the marginal effect of variable <span class="math inline">\(x_k\)</span> on <span class="math inline">\(y\)</span>!</p>
 <p>To interpret the effect of a change of <span class="math inline">\(x_k\)</span> by one unit, we need to calculate the derivative of <span class="math inline">\(p(Y_i=1 |x_i)\)</span> with respect to <span class="math inline">\(x_k\)</span>: <span class="math display">\[\frac{\partial p(Y_i=1|x_i)}{\partial x_{ik}} = \frac{e^{x_i \beta}}{(1+e^{x_i \beta})^2}\beta_k\]</span> Note that the marginal effect of <span class="math inline">\(x_{ik}\)</span> depends on all the <span class="math inline">\(x_i\)</span>s. I.e., you can no longer say ``an increase in x leads to an increase in <span class="math inline">\(y\)</span> by such amount. Rather, the effect depends on the values of the other covariates. Look back at the figure of the logit curve, and note that the effect is much strong around <span class="math inline">\(x=0\)</span> than for <span class="math inline">\(x=-10\)</span> or <span class="math inline">\(x=10\)</span>.</p>
 <p>Another way of seeing the same thing is to look at what happens to <span class="math inline">\(p\)</span> as X increases by one. Assuming all the betas are 1 for simplicity: <span class="math display">\[p(Y=1|x_1=0; x_2=0) = \frac{1}{1+e^{-(\beta_1x_1 + \beta_2x_2)}}=0.5\]</span> <span class="math display">\[p(Y=1|x_1=1; x_2=0) = \frac{1}{1+e^{-(\beta_1x_1 + \beta_2x_2)}}=0.73\]</span></p>
 <p>But note also that the effect is different if <span class="math inline">\(x_2\)</span> is different: <span class="math display">\[p(Y=1|x_1=0; x_2=1) = \frac{1}{1+e^{-(\beta_1x_1 + \beta_2x_2)}}=0.73\]</span> <span class="math display">\[p(Y=1|x_1=1; x_2=1) = \frac{1}{1+e^{-(\beta_1x_1 + \beta_2x_2)}}=0.88\]</span></p>
@@ -1689,6 +1688,7 @@ points(i, predict(glm.logit, newdata=data.frame(x = i), type=&#39;response&#39;)
 </div>
 <div id="replication-of-goldsmith-et-al.-2013" class="section level1">
 <h1><span class="header-section-number">2</span> Replication of Goldsmith et al. 2013</h1>
+<p>Note: from Goldstein: ``Our approach is to first estimate the likelihood of instability for a given year, then incorporate this estimate as a predictor variable in a second model estimating the likelihood of genocide onset. We use probit regression models, a familiar, appropriate choice for modeling binary outcomes, at each stage.’’</p>
 <div id="preparatory-steps" class="section level2">
 <h2><span class="header-section-number">2.1</span> Preparatory steps</h2>
 <pre class="r"><code># Change directory
