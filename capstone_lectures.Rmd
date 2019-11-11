@@ -1,0 +1,10 @@
+---
+title: "Capstone - Forecasting Conflict"
+---
+
+<br>
+<br>
+
+
+
+[Basic Logit/Probit models - Replication Goldstein](Capstone/logit.html)
