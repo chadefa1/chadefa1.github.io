@@ -9,6 +9,8 @@ title: "Course Material"
      - [Assignments](POU33011_assignments.html)
      - [Tutorial](https://andrsalvi.github.io/research-methods/)
      
+- Capstone - Forecasting Conflit
+     - [Lectures](capstone_lectures.html)        
 
 - Brown in Dublin: Contemporary Global Politics
      - [Lectures](brownInDublin_lectures.html)
