@@ -20,11 +20,6 @@ navbar:
         - text: "---------"
         - text: "Tutorials"  
           href: https://andrsalvi.github.io/research-methods/
-    - text: "Capstone - Forecasting Conflict"      
-      menu:
-        - text: "Lectures and Handouts"        
-	  href: capstone_lectures.html
-		 
     - text: "PO4700: Contemporary IR"      
       menu:
         - text: "Lectures and Handouts"        
