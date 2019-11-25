@@ -7,6 +7,6 @@ title: "Capstone - Forecasting Conflict"
 
 
 
-[Basic Logit/Probit models & Replication Goldstein](Capstone/basicScraping.html)
+[Basic Logit/Probit models & Replication Goldstein](Capstone/logit.html)
 
-[Basic scraping](Capstone/logit.html)
+[Basic scraping](Capstone/basicScraping.html)
