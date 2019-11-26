@@ -49,7 +49,7 @@ Experimental research
 - [Methods Lecture (no statistics this week) ](POU33011/MethodsMT11b.pdf):
 From experimental to quasi-experimental research
   
-- [Methods Lecture ](POU33011/MethodsMT12.pdf): 
+- [Methods Lecture ](POU33011/MethodsMT12.pptx): 
 Formal analysis and rational choice
 
      Readings:  Osborne, M. J. (2003). An Introduction to Game Theory. Oxford: Oxford University Press. Chapter 1 & 2 available from http://www.economics.utoronto.ca/osborne/igt/intro.pdf and http://www.economics.utoronto.ca/osborne/igt/nash.pdf
