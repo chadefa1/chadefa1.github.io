@@ -27,3 +27,4 @@ title: "Course Material"
 - PO 7005: Quantitative Methods II
      - [Lectures](https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0)
      - [Syllabus](PO7005/Syllabus_PO7005_Chadefaux.pdf)
+     - [Assignments](PO7005_Assignments.html)

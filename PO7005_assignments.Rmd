@@ -1,0 +1,26 @@
+---
+#bibliography:
+#- 'bibliography.bib'
+---
+
+<br>
+<br>
+
+### Trinity College Dublin, The University of Dublin
+
+<br>
+
+## **PO7005: Quantitative Methods for Political Science 2**
+
+<br>
+
+## \center Assignments
+
+
+- [Assignment 1](PO7005/Assignments/HW1.pdf)
+- [Assignment 2](PO7005/Assignments/HW2.pdf)
+- [Assignment 3](PO7005/Assignments/HW3.pdf)
+- [Assignment 4](PO7005/Assignments/HW4.pdf)
+- [Assignment 5](PO7005/Assignments/HW5.pdf)
+
+
