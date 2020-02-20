@@ -13,3 +13,5 @@ title: "Capstone - Forecasting Conflict"
 
 [Evaluation metrics](Capstone/Evaluation_metrics.html)
 
+[Practical example with R](Capstone/practicalExample.pdf)
+
