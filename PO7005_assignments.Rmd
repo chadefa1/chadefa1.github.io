@@ -16,15 +16,20 @@
 
 ## \center Assignments
 
+### Assignments 
 
 - [Assignment 1](PO7005/Assignments/HW1.pdf)
-
-  [Data for Assignment 1](PO7005/Assignments/data.csv)
 - [Assignment 2](PO7005/Assignments/HW2.pdf)
 - [Assignment 3](PO7005/Assignments/HW3.pdf)
-  
-  [Data for Assignment 3](PO7005/Assignments/uswages.dta)
 - [Assignment 4](PO7005/Assignments/HW4.pdf)
 - [Assignment 5](PO7005/Assignments/HW5.pdf)
 
+### \center Datasets
+
+- [data.csv](PO7005/Assignments/data.csv)
+- [graduateSchool.csv](PO7005/Assignments/graduateSchool.csv)
+- [ps.csv](PO7005/Assignments/ps.csv)
+- [uswages.dta](PO7005/Assignments/uswages.dta)
+- [WomenEmployment.dta](PO7005/Assignments/WomenEmployment.dta)
+- [mroz.dta](PO7005/Assignments/mroz.dta)
 
