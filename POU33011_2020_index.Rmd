@@ -18,3 +18,8 @@ title: "POU33011: Research methods for Political Science A (2020)"
      - Week 11: [Lecture 1](POU33011/2020/Lectures/methods11.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics11.pdf)
      - Week 12: [Lecture 1](POU33011/2020/Lectures/methods12.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics12.pdf)
      
+- Assignments: 
+  - [Assignment 1](POU33011/2020/Assignments/assignment1.pdf)
+  - [Assignment 2](POU33011/2020/Assignments/assignment2.pdf) 
+  - [Assignment 3](POU33011/2020/Assignments/assignment3.pdf) 
+  - [Assignment 4](POU33011/2020/Assignments/assignment4.pdf) 
