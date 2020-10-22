@@ -3,7 +3,7 @@ title: "POU33011: Research methods for Political Science A (2020)"
 ---
 
 
-- [Syllabus](POU33011_Syllabus_Chadefaux.pdf)
+- [Syllabus](POU33011/2020/POU33011_Syllabus_Chadefaux.pdf)
 - Lectures: 
      - Week 1:  [Lecture 1](POU33011/2020/Lectures/methods01.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics01.pdf)
      - Week 2: [Lecture 1](POU33011/2020/Lectures/methods02.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics02.pdf)
