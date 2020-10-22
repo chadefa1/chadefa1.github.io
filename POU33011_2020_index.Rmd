@@ -5,5 +5,16 @@ title: "POU33011: Research methods for Political Science A (2020)"
 
 - [Syllabus](POU33011_Syllabus_Chadefaux.pdf)
 - Lectures: 
-     - Week 1
-          - [Lecture 1](Lectures/methods01.pdf)
+     - Week 1:  [Lecture 1](POU33011/2020/Lectures/methods01.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics01.pdf)
+     - Week 2: [Lecture 1](POU33011/2020/Lectures/methods02.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics02.pdf)
+     - Week 3: [Lecture 1](POU33011/2020/Lectures/methods03.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics02.pdf)
+     - Week 4: [Lecture 1](POU33011/2020/Lectures/methods04.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics04.pdf)
+     - Week 5: [Lecture 1](POU33011/2020/Lectures/methods05.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics05.pdf)
+     - Week 6: [Lecture 1](POU33011/2020/Lectures/methods06.pdf) |  [Lecture 2](POU33011/2020/Lectures/statistics06.pdf)
+     - Week 7: Reading week
+     - Week 8: [Lecture 1](POU33011/2020/Lectures/methods08.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics08.pdf)
+     - Week 9: [Lecture 1](POU33011/2020/Lectures/methods09.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics09.pdf)
+     - Week 10: [Lecture 1](POU33011/2020/Lectures/methods10.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics10.pdf)
+     - Week 11: [Lecture 1](POU33011/2020/Lectures/methods11.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics11.pdf)
+     - Week 12: [Lecture 1](POU33011/2020/Lectures/methods12.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics12.pdf)
+     
