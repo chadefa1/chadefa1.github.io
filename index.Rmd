@@ -19,8 +19,7 @@ title: "Course Material"
      - [Forecasting challenge](https://docs.google.com/forms/d/e/1FAIpQLSfeq3e0QvCBG6wYMcdgn2KgoK72fHO2wFAtRQpbEKeCSDQG5Q/viewform?c=0&w=1)
 
 - PO 7001: Quantitative Methods I
-     - [Lectures](https://www.dropbox.com/sh/ln7sv59w0otclgn/AAAxgmKIbh908xJRGF5ZVO5Va?dl=0)
-     - [Syllabus](PO7001/PO7001_Syllabus_Chadefaux.pdf)
+     - [2020](PO7001_2020_index.html)
 
 - PO 7005: Quantitative Methods II
      - [Lectures](https://www.dropbox.com/sh/rd0mfeqghnh8yya/AAAShmBIYGjOTxRGjGZesvgha?dl=0)
