@@ -11,6 +11,7 @@ title: "PO7001: Quantitative Methods 1"
   - [Lecture 4](PO7001/2020/Lectures/lecture4.pdf)  
   - [Lecture 5](PO7001/2020/Lectures/lecture5.pdf)  
   - [Lecture 6](PO7001/2020/Lectures/lecture6.pdf) 
+  - Lecture 7: Reading week
   - [Lecture 8](PO7001/2020/Lectures/lecture8.pdf) 
   - [Lecture 9](PO7001/2020/Lectures/lecture9.pdf) 
   - [Lecture 10](PO7001/2020/Lectures/lecture10.pdf) 
