@@ -4,6 +4,7 @@ title: "POU33011: Research methods for Political Science A (2020)"
 
 
 - [Syllabus](POU33011/2020/POU33011_Syllabus_Chadefaux.pdf)
+
 - Lectures: 
      - Week 1:  [Lecture 1](POU33011/2020/Lectures/methods01.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics01.pdf)  
      - Week 2: [Lecture 1](POU33011/2020/Lectures/methods02.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics02.pdf) | [Tutorial](POU33011/2020/Lectures/Tutorial1.zip)
@@ -16,14 +17,16 @@ title: "POU33011: Research methods for Political Science A (2020)"
      - Week 6: [Lecture 1](POU33011/2020/Lectures/methods06.pdf) |  [Lecture 2](POU33011/2020/Lectures/statistics06.pdf) |
      [Tutorial](POU33011/2020/Lectures/Tutorial5.pdf)
      - Week 7: Reading week
-     - Week 8: [Lecture 1](POU33011/2020/Lectures/methods08.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics08.pdf)
-     - Week 9: [Lecture 1](POU33011/2020/Lectures/methods09.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics09.pdf)
-     - Week 10: [Lecture 1](POU33011/2020/Lectures/methods10.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics10.pdf)
+     - Week 8: [Lecture 1](POU33011/2020/Lectures/statistics08.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics08b.pdf)
+     - Week 9: [Lecture 1](POU33011/2020/Lectures/statistics09.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics09b.pdf)
+     - Week 10: [Lecture 1](POU33011/2020/Lectures/statistics10.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics10b.pdf)
      - Week 11: [Lecture 1](POU33011/2020/Lectures/methods11.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics11.pdf)
      - Week 12: [Lecture 1](POU33011/2020/Lectures/methods12.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics12.pdf)
      
+     
 - Assignments: 
+  - [Final paper instructions](POU33011/2020/Assignments/finalPaperGradingRubric.pdf)
   - [Assignment 1](POU33011/2020/Assignments/assignment1.pdf)
   - [Assignment 2](POU33011/2020/Assignments/assignment2.pdf) 
   - [Assignment 3](POU33011/2020/Assignments/assignment3.pdf) 
-  - [Assignment 4](POU33011/2020/Assignments/assignment4.pdf) 
+  - [Assignment 4](POU33011/2020/Assignments/assignment4.pdf)
