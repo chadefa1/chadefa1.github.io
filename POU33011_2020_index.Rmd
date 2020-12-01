@@ -19,7 +19,7 @@ title: "POU33011: Research methods for Political Science A (2020)"
      - Week 7: Reading week
      - Week 8: [Lecture 1](POU33011/2020/Lectures/statistics08.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics08b.pdf) |
      [Tutorial](POU33011/2020/Lectures/Tutorial7.pdf)
-     - Week 9: [Lecture 1](POU33011/2020/Lectures/statistics09.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics09b.pdf) |
+     - Week 9: [Lecture 1 & 2](POU33011/2020/Lectures/statistics09.pdf) |
      [Tutorial](POU33011/2020/Lectures/Tutorial8.pdf)
      - Week 10: [Lecture 1](POU33011/2020/Lectures/statistics10.pdf) | [Lecture 2](POU33011/2020/Lectures/statistics10b.pdf) |
      [Tutorial](POU33011/2020/Lectures/Tutorial9.pdf)
